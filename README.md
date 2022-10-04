@@ -1,3 +1,3 @@
 # mac-and-windows
 W3D2 Exercise
-Collaborators: Jessica Rodrigues and Marsha Shearin
+Collaborators: Jessica Rodrigues and Daniela Velarde
