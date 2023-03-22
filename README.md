@@ -3,7 +3,7 @@
 # Mac and Windows
 **TASK**: Design a page that marks up some content, and will display information about Mac and Windows. The final page should look similar in structure to the one shown below:
 
-![Exemplar](https://user-images.githubusercontent.com/44912347/202245227-8eead5ac-c725-44a7-92ab-56f09415e459.png)
+![Exemplar](./Exemplar.png)
 
 ## Project Specs
 1. Create some boilerplate HTML in your index.html file.
@@ -28,3 +28,6 @@
     - [`<div>` Tag Docs](https://www.w3schools.com/tags/tag_div.asp)
     - [HTML Class Attribute Docs](https://www.w3schools.com/html/html_classes.asp)
     - [HTML ID Attribute Docs](https://www.w3schools.com/html/html_id.asp)
+
+![Mac Stretch Example](./StretchMac.png)
+![Mac Stretch Example](./StretchWindows.png)
